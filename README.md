@@ -11,7 +11,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Running the data analysis
-To run the data analyis, open the `data_analysis.ipynb` jupyter notebook and execute each cell in order.
+To run the data analyis, open the `data_analysis.ipynb` jupyter notebook and execute the cells in order.
 
 This script will analyze the dataset and provide some plots.
 
