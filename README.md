@@ -1,7 +1,7 @@
 # Deep_Learning_2_NLP
 Repository for the NLP part of assignment 2 of the Deep Learning course.
 
-For this part of the assignment news articles are classified in 4 different categories (world, sport, business and science), using a pretrained and from scratch trained DistilBERT model. For this thask the [AG News Classification Dataset](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset) is used.
+For this part of the assignment news articles are classified in 4 different categories (world, sport, business and science), using a pretrained and from scratch trained DistilBERT model. For this task the [AG News Classification Dataset](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset) is used.
 
 ## Before running the code
 
